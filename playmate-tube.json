@@ -1,9 +1,9 @@
 {
   "ads_enabled": true,
-  "provider": "admob",
+  "provider": "yandex",
   "interstitial_enabled": true,
-  "interstitial_interval": 3,
-  "cooldown": 45,
+  "interstitial_interval": 1,
+  "cooldown": 20,
 
   "admob_app_open_android": "ca-app-pub-3940256099942544/9257395921",
   "admob_app_open_ios": "ca-app-pub-3940256099942544/5575463023",
