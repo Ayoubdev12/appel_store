@@ -1,0 +1,17 @@
+{
+  "ads_enabled": true,
+  "provider": "admob",
+  "interstitial_enabled": true,
+  "interstitial_interval": 3,
+  "cooldown": 45,
+
+  "admob_app_open_android": "ca-app-pub-xxxxxxxxxxxxxxxx/aaaaaaaaaa",
+  "admob_app_open_ios": "ca-app-pub-xxxxxxxxxxxxxxxx/bbbbbbbbbb",
+  "admob_interstitial_android": "ca-app-pub-xxxxxxxxxxxxxxxx/cccccccccc",
+  "admob_interstitial_ios": "ca-app-pub-xxxxxxxxxxxxxxxx/dddddddddd",
+
+  "yandex_app_open_ad_unit_id": "your-yandex-app-open-unit-id",
+  "yandex_interstitial_ad_unit_id": "your-yandex-interstitial-unit-id",
+
+  "privacy_policy_url": "https://yourdomain.com/privacy-policy"
+}
