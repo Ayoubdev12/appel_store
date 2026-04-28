@@ -1,6 +1,6 @@
 {
   "ads_enabled": true,
-  "provider": "admob",
+  "provider": "yandex",
   "interstitial_enabled": true,
   "interstitial_interval": 1,
   "cooldown": 20,
