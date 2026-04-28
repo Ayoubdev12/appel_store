@@ -5,13 +5,13 @@
   "interstitial_interval": 3,
   "cooldown": 45,
 
-  "admob_app_open_android": "ca-app-pub-xxxxxxxxxxxxxxxx/aaaaaaaaaa",
-  "admob_app_open_ios": "ca-app-pub-xxxxxxxxxxxxxxxx/bbbbbbbbbb",
-  "admob_interstitial_android": "ca-app-pub-xxxxxxxxxxxxxxxx/cccccccccc",
-  "admob_interstitial_ios": "ca-app-pub-xxxxxxxxxxxxxxxx/dddddddddd",
+  "admob_app_open_android": "ca-app-pub-3940256099942544/9257395921",
+  "admob_app_open_ios": "ca-app-pub-3940256099942544/5575463023",
+  "admob_interstitial_android": "ca-app-pub-3940256099942544/1033173712",
+  "admob_interstitial_ios": "ca-app-pub-3940256099942544/4411468910",
 
-  "yandex_app_open_ad_unit_id": "your-yandex-app-open-unit-id",
-  "yandex_interstitial_ad_unit_id": "your-yandex-interstitial-unit-id",
+  "yandex_app_open_ad_unit_id": "demo-appopenad-yandex",
+  "yandex_interstitial_ad_unit_id": "demo-interstitial-yandex",
 
   "privacy_policy_url": "https://yourdomain.com/privacy-policy"
 }
