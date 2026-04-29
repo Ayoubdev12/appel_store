@@ -6,7 +6,7 @@
 
   "interstitial_enabled": true,
   "interstitial_interval": 3,
-  "cooldown": 60,
+  "cooldown": 0,
 
   "navigation_actions_for_ad": 3,
   "video_opens_for_ad": 2,
