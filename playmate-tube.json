@@ -4,7 +4,7 @@
   "interstitial_enabled": true,
   "interstitial_interval": 5,
   "cooldown": 60,
-
+  "ad_test_mode": true
   "score_video_open": 0.0,
   "score_video_exit": 0.1,
   "score_navigation": 0.1,
