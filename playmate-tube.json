@@ -5,11 +5,11 @@
   "interstitial_interval": 5,
   "cooldown": 60,
 
-  "score_video_open": 1.0,
+  "score_video_open": 1.2,
   "score_video_exit": 1.0,
-  "score_navigation": 0.5,
-  "max_ads_per_session": 5,
-  "navigation_debounce_seconds": 4,
+  "score_navigation": 0.3,
+  "max_ads_per_session": 4,
+  "navigation_debounce_seconds": 5
 
   "admob_app_open_android": "ca-app-pub-3940256099942544/9257395921",
   "admob_app_open_ios": "ca-app-pub-3940256099942544/5575463023",
