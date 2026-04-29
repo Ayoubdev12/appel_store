@@ -5,9 +5,9 @@
   "interstitial_interval": 5,
   "cooldown": 60,
 
-  "score_video_open": 1.2,
-  "score_video_exit": 1.0,
-  "score_navigation": 0.3,
+  "score_video_open": 0.0,
+  "score_video_exit": 0.1,
+  "score_navigation": 0.1,
   "max_ads_per_session": 1,
   "navigation_debounce_seconds": 5
 
