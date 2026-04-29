@@ -3,7 +3,7 @@
   "provider": "admob",
   "interstitial_enabled": true,
   "interstitial_interval": 5,
-  "cooldown": 60,
+  "cooldown": 1s,
   "ad_test_mode": true
   "score_video_open": 2.5,
   "score_video_exit": 2.5,
