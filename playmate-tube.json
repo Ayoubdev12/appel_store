@@ -5,13 +5,17 @@
   "interstitial_interval": 5,
   "cooldown": 60,
 
+  "score_video_open": 1.0,
+  "score_video_exit": 1.0,
+  "score_navigation": 0.5,
+  "max_ads_per_session": 5,
+  "navigation_debounce_seconds": 4,
+
   "admob_app_open_android": "ca-app-pub-3940256099942544/9257395921",
   "admob_app_open_ios": "ca-app-pub-3940256099942544/5575463023",
   "admob_interstitial_android": "ca-app-pub-3940256099942544/1033173712",
   "admob_interstitial_ios": "ca-app-pub-3940256099942544/4411468910",
-
   "yandex_app_open_ad_unit_id": "demo-appopenad-yandex",
   "yandex_interstitial_ad_unit_id": "demo-interstitial-yandex",
-
   "privacy_policy_url": "https://sites.google.com/view/playmate-tube/home"
 }
