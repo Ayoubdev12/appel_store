@@ -4,13 +4,10 @@
 
   "provider": "yandex",
 
-  "interstitial_enabled": true,
-  "interstitial_interval": 3,
-  "cooldown": 0,
-
-  "navigation_actions_for_ad": 3,
+  "navigation_actions_for_ad": 4,
   "video_opens_for_ad": 2,
-  "navigation_debounce_seconds": 2,
+  "navigation_debounce_seconds": 3,
+  "cooldown": 90,
 
   "score_video_open": 1.0,
   "score_video_exit": 1.0,
