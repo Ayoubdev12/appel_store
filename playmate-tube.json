@@ -1,8 +1,8 @@
 {
-  "ads_enabled": false,
+  "ads_enabled": true,
   "ad_test_mode": true,
 
-  "provider": "admob",
+  "provider": "yandex",
 
   "interstitial_enabled": true,
   "interstitial_interval": 3,
