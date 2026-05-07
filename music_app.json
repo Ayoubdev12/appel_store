@@ -1,9 +1,10 @@
 {
   "ads_enabled": true,
   "ad_test_mode": false,
-
   "provider": "yandex",
+  
   "download_buttons_enabled": false
+  
   "navigation_actions_for_ad": 4,
   "video_opens_for_ad": 2,
   "navigation_debounce_seconds": 3,
