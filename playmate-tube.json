@@ -23,10 +23,10 @@
   "video_opens_for_ad": 2,
   "navigation_debounce_seconds": 4,
 
-  "yandex_app_open_ad_unit_id": "YOUR_YANDEX_APP_OPEN_UNIT_ID",
-  "yandex_interstitial_ad_unit_id": "YOUR_YANDEX_INTERSTITIAL_UNIT_ID",
+  "yandex_app_open_ad_unit_id": "R-M-19103738-3",
+  "yandex_interstitial_ad_unit_id": "R-M-19103738-2",
   "yandex_rewarded_ad_unit_id": "YOUR_YANDEX_REWARDED_UNIT_ID",
-  "yandex_banner_ad_unit_id": "YOUR_YANDEX_BANNER_UNIT_ID",
+  "yandex_banner_ad_unit_id": "R-M-19103738-1",
   "yandex_native_ad_unit_id": "YOUR_YANDEX_NATIVE_UNIT_ID",
 
   "admob_app_open_android": "",
