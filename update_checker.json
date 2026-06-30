@@ -8,8 +8,8 @@
   },
   "Ads": {
     "enabled": true,
-    "interstitialInterval": 3,
-    "appOpenCooldownSeconds": 14400,
+    "interstitialInterval": 1,
+    "appOpenCooldownSeconds": 20,
     "AdMob": {
       "bannerEnabled": true,
       "interstitialEnabled": true,
