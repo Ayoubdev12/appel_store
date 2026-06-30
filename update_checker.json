@@ -12,8 +12,8 @@
     "appOpenCooldownSeconds": 20,
     "AdMob": {
       "bannerEnabled": false,
-      "interstitialEnabled": true,
-      "appOpenEnabled": true,
+      "interstitialEnabled": false,
+      "appOpenEnabled": false,
       "androidBannerId": "YOUR_ANDROID_BANNER_ID",
       "androidInterstitialId": "YOUR_ANDROID_INTERSTITIAL_ID",
       "androidAppOpenId": "YOUR_ANDROID_APP_OPEN_ID",
@@ -33,8 +33,8 @@
 },
     "Yandex": {
       "bannerEnabled": true,
-      "interstitialEnabled": false,
-      "appOpenEnabled": false,
+      "interstitialEnabled": true,
+      "appOpenEnabled": true,
       "bannerId": "demo-banner-yandex",
       "interstitialId": "demo-interstitial-yandex",
       "appOpenId": "demo-appopenad-yandex"
