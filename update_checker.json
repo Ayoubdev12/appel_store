@@ -18,8 +18,8 @@
       "androidInterstitialId": "YOUR_ANDROID_INTERSTITIAL_ID",
       "androidAppOpenId": "YOUR_ANDROID_APP_OPEN_ID",
       "iosBannerId": "ca-app-pub-3940256099942544/2934735716",
-      "iosInterstitialId": "ca-app-pub-3940256099942544/5575463023",
-      "iosAppOpenId": "ca-app-pub-3940256099942544/4411468910"
+      "iosInterstitialId":"ca-app-pub-3940256099942544/4411468910",
+      "iosAppOpenId": "ca-app-pub-3940256099942544/5575463023"
     },
     "AppLovin": {
   "bannerEnabled": false,
