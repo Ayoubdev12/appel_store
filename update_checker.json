@@ -1,9 +1,33 @@
 {
   "ForceUpdate": {
-    "enabled": true,
+    "enabled": false,
     "title": "Update Required",
     "message": "A new version of the app is available. Please update to continue using the app.",
     "buttonText": "Update Now",
     "updateUrl": "https://play.google.com/store/apps/details?id=your.package.name"
+  },
+  "Ads": {
+    "enabled": true,
+    "interstitialInterval": 3,
+    "appOpenCooldownSeconds": 14400,
+    "AdMob": {
+      "bannerEnabled": true,
+      "interstitialEnabled": true,
+      "appOpenEnabled": true,
+      "androidBannerId": "YOUR_ANDROID_BANNER_ID",
+      "androidInterstitialId": "YOUR_ANDROID_INTERSTITIAL_ID",
+      "androidAppOpenId": "YOUR_ANDROID_APP_OPEN_ID",
+      "iosBannerId": "YOUR_IOS_BANNER_ID",
+      "iosInterstitialId": "YOUR_IOS_INTERSTITIAL_ID",
+      "iosAppOpenId": "YOUR_IOS_APP_OPEN_ID"
+    },
+    "Yandex": {
+      "bannerEnabled": false,
+      "interstitialEnabled": false,
+      "appOpenEnabled": false,
+      "bannerId": "",
+      "interstitialId": "",
+      "appOpenId": ""
+    }
   }
 }
