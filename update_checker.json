@@ -21,6 +21,16 @@
       "iosInterstitialId": "YOUR_IOS_INTERSTITIAL_ID",
       "iosAppOpenId": "YOUR_IOS_APP_OPEN_ID"
     },
+    "AppLovin": {
+  "bannerEnabled": false,
+  "interstitialEnabled": false,
+  "mrecEnabled": false,
+  "rewardedEnabled": false,
+  "bannerId": "YOUR_APPLOVIN_BANNER_ID",
+  "interstitialId": "YOUR_APPLOVIN_INTERSTITIAL_ID",
+  "mrecId": "YOUR_APPLOVIN_MREC_ID",
+  "rewardedId": "YOUR_APPLOVIN_REWARDED_ID"
+},
     "Yandex": {
       "bannerEnabled": false,
       "interstitialEnabled": false,
