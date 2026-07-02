@@ -36,7 +36,7 @@
 },
     "Yandex": {
       "bannerEnabled": true,
-      "interstitialEnabled": true,
+      "interstitialEnabled": false,
       "appOpenEnabled": true,
       "nativeEnabled": true,
       "bannerId": "demo-banner-yandex",
