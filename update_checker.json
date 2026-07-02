@@ -14,7 +14,7 @@
       "bannerEnabled": false,
       "interstitialEnabled": false,
       "appOpenEnabled": false,
-      "nativeEnabled": true,
+      "nativeEnabled": false,
       "androidBannerId": "YOUR_ANDROID_BANNER_ID",
       "androidInterstitialId": "YOUR_ANDROID_INTERSTITIAL_ID",
       "androidAppOpenId": "YOUR_ANDROID_APP_OPEN_ID",
@@ -38,9 +38,12 @@
       "bannerEnabled": true,
       "interstitialEnabled": true,
       "appOpenEnabled": true,
+      "nativeEnabled": true,
       "bannerId": "demo-banner-yandex",
       "interstitialId": "demo-interstitial-yandex",
-      "appOpenId": "demo-appopenad-yandex"
+      "appOpenId": "demo-appopenad-yandex",
+      "androidNativeId": "demo-native-app-yandex",
+    "iosNativeId": "demo-native-app-yandex"
     }
   }
 }
