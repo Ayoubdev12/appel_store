@@ -14,12 +14,15 @@
       "bannerEnabled": false,
       "interstitialEnabled": false,
       "appOpenEnabled": false,
+      "nativeEnabled": true,
       "androidBannerId": "YOUR_ANDROID_BANNER_ID",
       "androidInterstitialId": "YOUR_ANDROID_INTERSTITIAL_ID",
       "androidAppOpenId": "YOUR_ANDROID_APP_OPEN_ID",
       "iosBannerId": "ca-app-pub-3940256099942544/2934735716",
       "iosInterstitialId":"ca-app-pub-3940256099942544/4411468910",
-      "iosAppOpenId": "ca-app-pub-3940256099942544/5575463023"
+      "iosAppOpenId": "ca-app-pub-3940256099942544/5575463023",
+      "androidNativeId": "your-android-native-ad-unit-id",
+    "iosNativeId": "ca-app-pub-3940256099942544/3986624511"
     },
     "AppLovin": {
   "bannerEnabled": false,
