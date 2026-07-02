@@ -11,7 +11,7 @@
     "interstitialInterval": 1,
     "appOpenCooldownSeconds": 20,
     "AdMob": {
-      "bannerEnabled": false,
+      "bannerEnabled": true,
       "interstitialEnabled": false,
       "appOpenEnabled": false,
       "androidBannerId": "YOUR_ANDROID_BANNER_ID",
@@ -32,7 +32,7 @@
   "rewardedId": "YOUR_APPLOVIN_REWARDED_ID"
 },
     "Yandex": {
-      "bannerEnabled": true,
+      "bannerEnabled": false,
       "interstitialEnabled": true,
       "appOpenEnabled": true,
       "bannerId": "demo-banner-yandex",
