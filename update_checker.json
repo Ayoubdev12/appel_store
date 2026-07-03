@@ -13,7 +13,7 @@
     "AdMob": {
       "bannerEnabled": false,
       "interstitialEnabled": false,
-      "appOpenEnabled": false,
+      "appOpenEnabled": true,
       "nativeEnabled": false,
       "androidBannerId": "YOUR_ANDROID_BANNER_ID",
       "androidInterstitialId": "YOUR_ANDROID_INTERSTITIAL_ID",
@@ -37,7 +37,7 @@
     "Yandex": {
       "bannerEnabled": true,
       "interstitialEnabled": false,
-      "appOpenEnabled": true,
+      "appOpenEnabled": false,
       "nativeEnabled": true,
       "bannerId": "demo-banner-yandex",
       "interstitialId": "demo-interstitial-yandex",
